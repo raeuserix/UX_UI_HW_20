@@ -20,6 +20,7 @@ hr {
     opacity: 1;
     border-top: double;
     border-width:5px;
+    margin-bottom: 35px;
 }
 /*Navigation Bar*/
 
@@ -191,6 +192,10 @@ justify-content: top;}
     
 }
 
+.value{
+    height:180px;
+}
+
 
 /*Footer*/
 
@@ -258,6 +263,10 @@ footer {
 @media only screen and (max-width: 1030px) {
     .card-body {
         height:350px;
+    }
+
+    .value{
+        height:200px;
     }
 
 }
