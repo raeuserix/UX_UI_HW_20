@@ -33,11 +33,11 @@ hr {
     z-index: 100;
 }
 .nav-item {
-    padding-right: 30px; 
+    padding-right: 20px; 
 }
 
 .navbar-brand {
-    padding-right:4%;
+    padding-right:3%;
     margin-left:2.7%;
     display:inline-block;
     color: #e4e4e4;
@@ -349,6 +349,9 @@ footer {
     justify-content: center;
 }
 
+.value {
+    height:230px;
+}
 }
 @media only screen and (max-width: 767px) {
 .gif {
